@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá Pessoal! 	:vulcan_salute:
 
-<!--
-**IgorAPSantos/IgorAPSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Igor Pádua, sou **Engenheiro de Software**. Meu primeiro contato com a área de desenovlimento foi em 2022, atualmente sou **Estudante de Desenvolvimento Back-end da @cubosacademy**. 
 
-Here are some ideas to get you started:
+Aberto e motivado a aprender novas linguagens e tecnologias 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Para me encontrar:
+
+[![Linkedin](https://www.linkedin.com/in/igor-padua/)
+
+
+Minha Habilidades:
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
