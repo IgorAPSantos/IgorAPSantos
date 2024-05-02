@@ -1,6 +1,6 @@
 ### Olá Pessoal! 	:vulcan_salute:
 
-Meu nome é Igor Pádua, sou **Engenheiro de Software**. Meu primeiro contato com a área de desenvolvimento foi em 2022, atualmente sou **Estudante de Desenvolvimento Back-end da @cubosacademy**. 
+Meu nome é Igor Pádua, sou **Engenheiro de Software**. Meu primeiro contato com a área de desenvolvimento foi em 2023, atualmente sou **Estudante de Desenvolvimento Back-end da @cubosacademy**. 
 
 Aberto e motivado a aprender novas linguagens e tecnologias 🚀
 
